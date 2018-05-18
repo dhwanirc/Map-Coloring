@@ -1,5 +1,6 @@
 # Map-Coloring
 
+Constraint Satisfaction Problem
 
 Run the MapColoringCode.cpp file.
 
